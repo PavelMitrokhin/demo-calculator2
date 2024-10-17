@@ -8,6 +8,6 @@ public class Main {
 //        System.out.println(calculator.sum(2.33, 4.28));
 
         WebDriver webDriver = new ChromeDriver();
-        webDriver.navigate().to("https://www.onliner.by/");
+        webDriver.navigate().to("https://svyatoslav.biz/testlab/wt/index.php");
     }
 }
